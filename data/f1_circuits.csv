@@ -1,0 +1,25 @@
+ID,Circuito,Ciudad,Pais,Latitud,Longitud,Ventana_Inicio,Ventana_Fin,Peso_Comercial_Total
+1,Albert Park,Melbourne,Australia,-37.8497,144.9680,2025-03-01,2025-04-30,14
+2,Shanghai Int.,Shanghái,China,31.3388,121.2203,2025-04-01,2025-05-15,10
+3,Suzuka Circuit,Suzuka,Japón,34.8431,136.5411,2025-04-01,2025-05-15,14
+4,Bahrain Int.,Sakhir,Baréin,26.0325,50.5106,2025-03-01,2025-04-01,12
+5,Jeddah Corniche,Yeda,Arabia Saudita,21.6319,39.1044,2025-03-01,2025-04-01,12
+6,Miami Int.,Miami,EE. UU.,25.9580,-80.2389,2025-04-01,2025-05-15,14
+7,Enzo e Dino Ferrari,Imola,Italia,44.3439,11.7169,2025-05-01,2025-06-30,8
+8,Circuit de Monaco,Montecarlo,Mónaco,43.7347,7.4206,2025-05-01,2025-06-30,12
+9,Barcelona-Catalunya,Montmeló,España,41.5700,2.2611,2025-05-01,2025-06-30,10
+10,Gilles Villeneuve,Montreal,Canadá,45.5000,-73.5228,2025-06-01,2025-08-31,14
+11,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,2025-06-01,2025-08-31,8
+12,Silverstone Circuit,Silverstone,Reino Unido,52.0786,-1.0169,2025-07-01,2025-08-31,12
+13,Spa-Francorchamps,Spa,Bélgica,50.4372,5.9714,2025-07-01,2025-08-31,10
+14,Hungaroring,Budapest,Hungría,47.5789,19.2486,2025-07-01,2025-08-31,10
+15,Circuit Zandvoort,Zandvoort,Países Bajos,52.3888,4.5409,2025-08-01,2025-09-15,12
+16,Autodromo Monza,Monza,Italia,45.6156,9.2811,2025-09-01,2025-09-30,10
+17,Baku City Circuit,Bakú,Azerbaiyán,40.3725,49.8533,2025-09-01,2025-10-15,12
+18,Marina Bay Street,Marina Bay,Singapur,1.2914,103.8643,2025-09-01,2025-10-31,14
+19,Circuit of the Americas,Austin,EE. UU.,30.1328,-97.6411,2025-10-01,2025-11-15,14
+20,A. Hermanos Rodríguez,Ciudad de México,México,19.4042,-99.0907,2025-10-01,2025-11-15,14
+21,Autódromo J. C. Pace,São Paulo,Brasil,-23.7036,-46.6997,2025-10-01,2025-11-30,12
+22,Las Vegas Strip,Las Vegas,EE. UU.,36.1147,-115.1728,2025-10-15,2025-11-30,14
+23,Losail International,Lusail,Catar,25.4900,51.4542,2025-11-01,2025-12-15,12
+24,Yas Marina Circuit,Abu Dabi,Emiratos Árabes,24.4672,54.6031,2025-11-01,2025-12-15,14

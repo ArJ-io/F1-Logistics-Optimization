@@ -1,0 +1,10 @@
+Parametro,Valor,Unidad
+Peso_Carga_Equipos,500,Ton
+Peso_Carga_Otros,800,Ton
+Numero_Personal_Viajando,1500,Personas
+Factor_Emision_Aereo_Carga,550,kgCO2/tkm
+Factor_Emision_Aereo_Pasajero,0.15,kgCO2/pkm
+Factor_Emision_Terrestre,85,kgCO2/tkm
+Velocidad_Avion,850,km/h
+Costo_JetFuel_USD_L,0.85,USD/L
+Consumo_Avion_L_km,12,L/km

@@ -1,0 +1,44 @@
+
+📄 TIPO DE INFORME: PRELIMINAR (EJECUCIÓN SIMPLE)
+
+================================================================================
+                       🕵️‍♂️ AUDITORÍA DE ZONAS DE RIESGO                       
+================================================================================
+🟡 ALERTA GESTIONADA (Ronda 16 Monza): Fecha 13-Aug. Desviación 19 días.
+🟡 ALERTA GESTIONADA (Ronda 17 Bakú): Fecha 24-Aug. Desviación 8 días.
+🟡 ALERTA GESTIONADA (Ronda 19 Las Vegas): Fecha 15-Sep. Desviación 30 días.
+
+✅ RESULTADO: Calendario APROBADO. (Zonas Amarillas usadas: 3)
+
+================================================================================
+                        🏁 RESUMEN EJECUTIVO (CONSOLA) 🏁                         
+================================================================================
+Métrica              | Actual          | Optimizado      | Diferencia
+----------------------------------------------------------------------
+Distancia            | 114,521 km     | 99,534 km     | 📉 13.1%
+Costo                | $29.8M       | $25.9M       | 💰 $3.9M
+Emisiones            | 4,343 t     | 3,774 t     | 🌿 -568 t
+
+================================================================================
+📝 SNIPPET MARKDOWN FINAL
+================================================================================
+
+## 🚀 Resultados: Optimización Logística F1 (2025)
+
+### 📊 Tabla de Impacto
+
+| KPI | Calendario Oficial | Propuesta IA | Ahorro / Mejora |
+| :--- | :--- | :--- | :--- |
+| **Distancia** | 114,521 km | **99,534 km** | 📉 13.1% |
+| **Costo Est.** | $29.8M USD | **$25.9M USD** | 💰 $3.9M USD |
+| **Tiempo Total** | 128 Días | **117 Días** | ⏱️ 10.4 Días Libres |
+
+### 💡 Análisis Técnico
+1. **Ruta Anclada:** Se respetó estrictamente el inicio en Australia y el fin en Abu Dhabi.
+2. **Eficiencia:** La optimización reduce la huella de carbono equivalente a **1,194,413 Litros** de Jet Fuel.
+3. **Gestión de Riesgo:** El modelo utiliza un sistema de "Zonas de Tolerancia" para negociar fechas difíciles sin romper la viabilidad operativa.
+
+🖥️ DASHBOARD INTERACTIVO (V2) GENERADO: ../outputs/dashboard_ejecutivo.html
+
+✅ PROCESO FINALIZADO CON ÉXITO.
+   -> Revisa la carpeta 'outputs/' para ver los mapas y el dashboard.
